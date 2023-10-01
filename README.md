@@ -1,2 +1,2 @@
 # C-Language
-Complete C Language Codess
+Complete C Language Codes
